@@ -4,18 +4,24 @@ A comprehensive collection of methods for setting up LangGraph database tables u
 # Overview
 Three methods to set up LangGraph database tables:
 
-## psycopg2 - Direct PostgreSQL control for performance
+## psycopg2 
+Direct PostgreSQL control for performance
 
-## SQLAlchemy - ORM benefits for complex schemas
+## SQLAlchemy 
+ORM benefits for complex schemas
 
-## LangGraph Built-in - Official method for compatibility
+## LangGraph Built-in 
+Official method for compatibility
 
 # Use Cases
-## psycopg2: High-performance, custom PostgreSQL features
+## psycopg2: 
+High-performance, custom PostgreSQL features
 
-## SQLAlchemy: Multi-database support, team environments
+## SQLAlchemy: 
+Multi-database support, team environments
 
-## LangGraph Built-in: Rapid prototyping, standard implementations
+## LangGraph Built-in: 
+Rapid prototyping, standard implementations
 
 # Key Features
 Custom table naming support
